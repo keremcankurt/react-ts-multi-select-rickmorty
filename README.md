@@ -1,6 +1,6 @@
 # Multi Select Component
 
-This is a custom multi select component built using React.
+This is a custom multi select component built using React and Typescript.
 
 <img src="public/1.png" alt="1">
 
